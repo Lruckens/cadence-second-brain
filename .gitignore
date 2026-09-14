@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+
+# Real project data — never committed. Only example/ ships in git.
+/sources/*
+/brain/*
+!/sources/.gitkeep
+!/brain/.gitkeep
